@@ -1,13 +1,13 @@
 # 📚 Sinclair D2L Assignment Fetcher
 
-This project fetches upcoming assignments and quizzes from Sinclair Community College's D2L (Brightspace) system using D2L's OAuth2.0 authentication.
+This project fetches upcoming assignments and quizzes from Sinclair's D2L (Brightspace) system using D2L's OAuth2.0 authentication.
 
 ## Features
 
 - Automatically obtains and refreshes OAuth2 token using browser session cookies
 - Lists assignments and quizzes for the next two weeks
 - Supports multiple courses
-- Outputs details including name, due date, points, and description
+- Outputs details including name, description, due date, and points
 
 ## ⚠️ Disclaimer
 
